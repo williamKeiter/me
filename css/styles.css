@@ -159,10 +159,16 @@ a:hover {
 
 .skills {}
 
-.skill-row {
+.skill-row1 {
   width: 60%;
   margin: 100px auto 100px auto;
   text-align: left;
+}
+.skill-row2 {
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding-top: 50px;
 }
 
 .AMU {
